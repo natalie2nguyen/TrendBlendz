@@ -1,0 +1,62 @@
+.blueNav{
+    background-color: #181e5c;
+    height: 2rem;
+    padding: 0.5rem;
+    text-align: end;
+}
+
+.blueNav a{
+    color: white;
+    vertical-align: middle;
+    margin-right: 1rem;
+}
+
+.insta{
+    width: 2rem;
+    height: 2rem;
+    align-items: end;
+    cursor: pointer;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+}
+.facebook{
+    width: 1.5rem;
+    height: 1.5rem;
+    align-items: end;
+    cursor: pointer;
+    vertical-align: middle;
+    margin-right: 0.5rem;
+}
+
+.logo{
+    width: 14rem;
+    height: 7rem;
+    padding: 1rem;
+    float: left;
+    vertical-align: middle;
+}
+
+.whiteNav{
+    height: 9rem;
+    text-align: right;
+}
+
+
+.whiteNav a{
+    font-size: x-large;
+    cursor: pointer;
+    margin-right: 2rem;
+    
+}
+.whiteNav button{
+    background-color: #f31104;
+    height: 4rem;
+    width: 12rem;
+    margin: 2rem;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: x-large;
+    color: white;
+    font-weight: bold;
+    
+}

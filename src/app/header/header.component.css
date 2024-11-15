@@ -49,7 +49,7 @@
     
 }
 .whiteNav button{
-    background-color: #f31104;
+    background-color: #d23433;
     height: 4rem;
     width: 12rem;
     margin: 2rem;
@@ -58,5 +58,13 @@
     font-size: x-large;
     color: white;
     font-weight: bold;
+    transition-duration: 0.4s;
+    border: 2px solid #d23433;
+}
+
+.whiteNav button:hover{
+   background-color:white;
+   color: #d23433;
+   
     
 }

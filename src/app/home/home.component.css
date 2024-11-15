@@ -5,7 +5,7 @@
 }
 
 .home-chairs img{
-    opacity: 0.8;
+    opacity: 0.75;
     width: 100%;
     z-index: 1;
 }
@@ -13,14 +13,12 @@
 .whiteBox{
     background-color: white;
     display: block;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
     width: 30rem;
     height: 40%;
     z-index: 2;
     position: absolute;
-    top: 45%;
+    top: 35%;
+    align-items: center;
 }
 
 .centerLogo{
@@ -32,25 +30,52 @@
 .trendBlendz{
     z-index: 3;
     position: absolute;
-    top: 110%;
+    top: 78%;
     color: #181e5c;
     font-weight: bolder;
-    font-size: xx-large;
-    text-align: center;
+    font-size: 2.25rem;
     text-wrap: nowrap;
+    
 }
 .bookAPPT{
+    z-index: 3;
+    position: absolute;
+    top: 83%;
+}
+.bookAPPT button{
     height: 3rem;
     width: 15rem;
     border-radius: 8px;
-    background-color: #f31104;
+    border: 2px solid #d23433;
+    background-color: #d23433;
     color: white;
-    z-index: 3;
-    position: absolute;
-    top: 125%;
+    
     font-size: large;
     font-weight: normal;
     cursor: pointer;
-    margin-left: 25%;
-    margin-right: 25%;
+    transition-duration: 0.4s;
+}
+
+.bookAPPT button:hover{
+    background-color: white;
+    color: #d23433;
+}
+
+.aboutUs{
+    background-color: #6c748c;
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+.aboutUs header{
+    font-size: 3rem;
+}
+
+.scissors{
+    opacity: 0.5;
+    width:5rem;
+    height: 5rem;;
+    filter: brightness(0) invert(1);
 }

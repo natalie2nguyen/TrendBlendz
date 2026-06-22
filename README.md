@@ -16,10 +16,7 @@ Designed the entire site from scratch in Figma before development, including lay
 - Contact Us
 
 ## Wireframes & Design
-[Insert Figma link or wireframe screenshots here]
-
-## Final Product
-[Insert screenshots here]
+https://www.figma.com/design/s3AvK0LATwtYhcfyA2WIWG/Trend-Blendz-Site-Design?node-id=0-1&t=MC26KxDEwPOYb3gD-1
 
 ## Tech Stack
 TypeScript, Angular, HTML, CSS, Figma

@@ -1,12 +1,34 @@
-# Client
+# Trend Blendsz — Website Redesign
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.2.
+A full website redesign for Trend Blendsz, a local Denver barber shop. The goal was to create a modern, clean visual identity that stood out from the generic template-based sites common in the industry.
 
-## Development server
+## The Problem
+Most local barber shop websites look the same — stock templates with little personality. Trend Blendsz needed a site that felt as sharp and intentional as the cuts they deliver.
+
+## Design Process
+Designed the entire site from scratch in Figma before development, including layout, color palette, typography, and component design. Translated wireframes directly into a production Angular application with no template used.
+
+## Pages Built
+- Home
+- Our Services
+- Gallery
+- Meet the Team
+- Contact Us
+
+## Wireframes & Design
+[Insert Figma link or wireframe screenshots here]
+
+## Final Product
+[Insert screenshots here]
+
+## Tech Stack
+TypeScript, Angular, HTML, CSS, Figma
+
+## Running Locally
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Code Scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
@@ -14,14 +36,14 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Running Unit Tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Running End-to-End Tests
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
+## Further Help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
